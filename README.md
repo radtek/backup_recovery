@@ -4,20 +4,13 @@
 基于Python的数据库备份恢复脚本。
 
 #### 软件架构
-软件架构说明
+基于Python的Oracle RAC恢复自动恢复脚本。  
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. python oraclerestore_auto.py -d [数据库名称] -C [NBU客户端名称] -S [NBU服务器名称]  -e '2019-06-26 12:00:00'  
+
 
 #### 参与贡献
 
