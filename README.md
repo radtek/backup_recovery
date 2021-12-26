@@ -1,4 +1,4 @@
-# backup-recovery
+# backup_recovery
 
 #### 介绍
 基于Python的数据库备份恢复脚本。
